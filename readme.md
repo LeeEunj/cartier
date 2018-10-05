@@ -1,3 +1,3 @@
 # cartier
 
-<a href="main.html"> 메인 </a>
+<a href="index.html"> 메인 </a>
